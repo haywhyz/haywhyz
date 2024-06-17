@@ -3,7 +3,9 @@
  I am a Cloud and DevOps enthusiast 
 
 👯 I’m looking to collaborate on DevOps and Open-Source
-<p> ✉️ I also try to share my knowledge on DevOps, Cloud, and Open Source through my [blog](https://medium.com/@olayinkancs) </p>
+<p> 
+I also try to share my knowledge on DevOps, Cloud, and Open Source through my [blog](https://medium.com/@olayinkancs) 
+</p>
 <p>  Connect me on [linkedin](https://www.linkedin.com/in/olayinka-idowu-7a92b3166) </p>
 
 
